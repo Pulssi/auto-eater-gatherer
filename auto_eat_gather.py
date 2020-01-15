@@ -11,8 +11,8 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tessera
 eat_until_full = False
 clicked = False
 next_eleven = False
-combat = True
-gather = False
+start_combat = True
+start_gather = False
 
 
 while True:
